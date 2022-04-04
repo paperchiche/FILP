@@ -1,0 +1,3 @@
+C:\GitHub\FILP-FSharp\LR5\task12\obj\Debug\netcoreapp3.1\task12.fsprojAssemblyReference.cache
+C:\GitHub\FILP-FSharp\LR5\task12\obj\Debug\netcoreapp3.1\task12.AssemblyInfoInputs.cache
+C:\GitHub\FILP-FSharp\LR5\task12\obj\Debug\netcoreapp3.1\task12.AssemblyInfo.fs
