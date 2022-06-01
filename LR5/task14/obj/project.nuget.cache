@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bu/syug4mGZ0p0rZVTpmjlLdkPuGYQWGT9APTHHXyBwCHnrhejcwhh21e1tVqkVUFsK+yZV8GwnrHlupxQdkRA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\FILP-FSharp\\LR5\\task14\\task14.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20art\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
